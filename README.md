@@ -1,2 +1,2 @@
 # resolusi-pri
-repository untuk menyimpan rencana pribadi kedeoannya
+repository untuk menyimpan rencana pribadi kedepannya
